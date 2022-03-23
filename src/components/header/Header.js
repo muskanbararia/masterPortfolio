@@ -37,7 +37,7 @@ class Header extends Component {
               <span className="navicon"></span>
             </label>
             <ul className="menu" style={{ backgroundColor: theme.body }}>
-              {/* <li>
+              <li>
                 <NavLink
                   to="/home"
                   tag={Link}
@@ -48,8 +48,8 @@ class Header extends Component {
                 >
                   Home
                 </NavLink>
-              </li> */}
-              {/* <li>
+              </li>
+              <li>
                 <NavLink
                   to="/education"
                   tag={Link}
@@ -60,8 +60,8 @@ class Header extends Component {
                 >
                   Education
                 </NavLink>
-              </li> */}
-              {/* <li>
+              </li>
+              <li>
                 <NavLink
                   to="/experience"
                   tag={Link}
@@ -72,7 +72,7 @@ class Header extends Component {
                 >
                   Experience
                 </NavLink>
-              </li> */}
+              </li>
               {/* <li>
                 <NavLink
                   to="/projects"

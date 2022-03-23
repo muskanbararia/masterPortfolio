@@ -48,6 +48,9 @@ html,
 body {
   scroll-behavior: smooth;
 }
+#root {
+  width: 100%;
+}
 body {
   margin: 0;
   font: 19px / 23px Montserrat, "Montserrat", sans-serif;
