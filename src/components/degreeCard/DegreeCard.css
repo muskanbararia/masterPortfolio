@@ -28,6 +28,10 @@
   /* background-color: #6c63ff; */
   /* background: transparent; */
   box-shadow: 5px 5px 5px #d9dbdf;
+  min-height: 180px;
+  align-items: center;
+  display: flex;
+  padding-top: 10px;
 }
 
 .body-header {

@@ -14,6 +14,11 @@
 .experience-heading-div > * {
   flex: 1;
 }
+.educations-body-div {
+  margin: 0 auto;
+  padding: 15px 10px;
+  width: 90%;
+}
 
 .experience-heading-img-div {
   align-items: center;
